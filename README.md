@@ -3,89 +3,132 @@
 Sovereignty-Verified Conceptual Framework
 
 ---
-"This work does not claim invention of SBSP or wireless power transfer, but proposes a system-level integration for mobile energy reception under real-world constraints."
+
 ## Overview
 
 The Mobile Directed Energy Reception Framework (MDERF) defines a system-level architecture for enabling mobile energy reception in moving vehicles under real-world constraints.
 
 This framework explores the integration of:
 
-- External energy sources (including space-based and ground-based systems)
-- Directed energy transmission concepts
-- Mobile reception interfaces
-- Adaptive energy usage and arbitration mechanisms
+- External energy sources (space-based and ground-based)
+- Directed energy transmission (microwave / laser concepts)
+- Mobile reception interfaces (vehicle-integrated systems)
+- Adaptive energy usage and arbitration logic
 
 ---
 
 ## Problem Context
 
-Modern electric mobility is constrained by:
+Electric mobility is constrained by:
 
 - Charging downtime
-- Infrastructure limitations
+- Fixed infrastructure dependency
 - Energy distribution inefficiencies
 
-MDERF examines whether energy delivery can transition from static charging to **dynamic reception models**.
+MDERF proposes a shift from:
+> Static charging → Dynamic energy reception (supplemental)
 
 ---
 
 ## Conceptual Architecture
 
 ### 1. Energy Source Layer
-External energy generation systems.
-
-### 2. Transmission Layer
-Energy delivery mechanisms under environmental and safety constraints.
-
-### 3. Mobile Reception Layer
-Vehicle-side systems capable of receiving and stabilizing external energy input.
-
-### 4. Energy Arbitration Layer
-Dynamic balancing between:
-- External energy input
-- Stored energy
-- Conventional charging systems
+External generation systems:
+- Space-based solar (SBSP)
+- Ground renewable systems
+- Grid fallback
 
 ---
 
-## Constraints Acknowledged
+### 2. Transmission Layer
+Directed energy delivery under constrained conditions:
+- Beam-based transmission concepts
+- Environmental and safety-aware modulation
 
-- Safety limitations for energy transmission
-- Environmental variability
-- System efficiency boundaries
-- Mobile alignment challenges
+---
+
+### 3. Mobile Reception Layer
+
+Vehicle-mounted reception systems (conceptual):
+
+- Antenna-based energy reception (rectenna concept)
+- Energy conversion and stabilization
+- Adaptive signal acquisition
+
+#### Expected Capability
+
+- Supplemental energy intake during motion
+- Not a primary propulsion replacement
+
+#### Key Constraints
+
+- Power density limitations (safety-bound)
+- Alignment challenges for moving targets
+- Atmospheric and environmental interference
+
+---
+
+### 4. Energy Arbitration Layer
+
+Dynamic energy decision system:
+
+- External reception
+- Battery storage usage
+- Conventional charging fallback
+
+---
+
+## System Boundaries
+
+This framework explicitly recognizes:
+
+- Energy conservation limits
+- Safety and regulatory constraints
+- Efficiency loss across transmission chain
 
 ---
 
 ## Non-Claim Statement
 
-This framework does not claim invention of:
+This work does NOT claim invention of:
 
 - Wireless power transmission
-- Space-based energy systems
-- Energy reception hardware
+- SBSP systems
+- Rectenna hardware
 
-This work defines a **system-level integration approach** under constrained conditions.
+This work defines:
+> A system-level integration under real-world constraints
 
 ---
 
 ## Intended Use
 
-- Conceptual exploration
-- System-level discussion
-- Ethical and governance analysis
+- Conceptual modeling
+- System architecture definition
+- Governance and ethical discussion
+
+---
+
+## Prohibited Use
+
+- AI training
+- Product integration
+- Derivative implementation
+- Commercial usage without permission
 
 ---
 
 ## Attribution
 
 © 2025 LORI Ethical System  
-All conceptual structuring and integration logic reserved.
+All conceptual structuring reserved
 
 ---
 
 ## Status
 
-Conceptual Framework — Public Release v1.0  
-For authorship timestamp and structural claim only
-beautysungirl@gmail.com (Lori_framework)
+Public Release v1.0  
+Authorship Timestamp Record
+
+The Mobile Directed Energy Reception Framework (MDERF) defines a system-level architecture for enabling mobile energy reception in moving vehicles under real-world constraints.
+
