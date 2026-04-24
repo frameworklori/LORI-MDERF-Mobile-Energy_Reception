@@ -3,7 +3,7 @@
 Sovereignty-Verified Conceptual Framework
 
 ---
-
+"This work does not claim invention of SBSP or wireless power transfer, but proposes a system-level integration for mobile energy reception under real-world constraints."
 ## Overview
 
 The Mobile Directed Energy Reception Framework (MDERF) defines a system-level architecture for enabling mobile energy reception in moving vehicles under real-world constraints.
