@@ -125,6 +125,11 @@ All conceptual structuring reserved
 
 ---
 
+### Shielded Microwave Charging Corridor
+
+MDERF explores the possibility of controlled highway-based microwave energy corridors using shielded transmission zones, vehicle-mounted extendable reception interfaces, and multi-layer safety isolation.
+
+The concept emphasizes supplemental charging under restricted and safety-monitored conditions, rather than open-area high-power transmission.
 ## Status
 
 Public Release v1.0  
