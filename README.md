@@ -132,3 +132,5 @@ Authorship Timestamp Record
 
 The Mobile Directed Energy Reception Framework (MDERF) defines a system-level architecture for enabling mobile energy reception in moving vehicles under real-world constraints.
 
+Beautysungirl@gmail.com   (Lori_framework)
+
