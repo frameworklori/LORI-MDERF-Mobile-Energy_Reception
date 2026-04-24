@@ -63,3 +63,5 @@ All commercial or implementation rights require explicit permission.
 ---
 
 End of License
+
+beautysungirl@gmail.com (Lori_framework)
