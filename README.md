@@ -16,7 +16,18 @@ This framework explores the integration of:
 - Adaptive energy usage and arbitration logic
 
 ---
+### Deployment Strategy (Refined)
 
+Based on feasibility constraints, MDERF identifies that:
+
+- Open public highway deployment presents significant safety and efficiency challenges
+- Controlled environments provide a more viable near-term implementation pathway
+
+Primary deployment candidates include:
+- Industrial logistics corridors
+- Military and secured zones
+- Disaster response infrastructure
+  
 ## Problem Context
 
 Electric mobility is constrained by:
